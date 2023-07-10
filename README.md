@@ -4,7 +4,7 @@
     <picture>
       <source
         height="200"
-        srcset="https://github-readme-stats.vercel.app/api?username=webdevnerdstuff&show_icons=true&bg_color=000&title_color=00D205&icon_color=2492FF&text_color=EEE"
+        srcset="https://github-readme-stats.vercel.app/api?username=webdevnerdstuff&show_icons=true&bg_color=000&title_color=00D205&icon_color=2492FF&text_color=EEE&border_color=777"
         media="(prefers-color-scheme: dark)"
       />
       <source
@@ -21,7 +21,7 @@
     <picture>
       <source
         height="200"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevnerdstuff&show_icons=true&bg_color=000&title_color=00D205&icon_color=2492FF&text_color=EEE&layout=donut"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevnerdstuff&show_icons=true&bg_color=000&title_color=00D205&icon_color=2492FF&text_color=EEE&layout=donut&border_color=777"
         media="(prefers-color-scheme: dark)"
       />
       <source
